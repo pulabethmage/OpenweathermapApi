@@ -1,6 +1,5 @@
 <?php
 //https://openweathermap.org/current
-//api:ee8d3f18a85cf4651cc79486fc36b7b2
 
 $response = array();
 //$result = array();
